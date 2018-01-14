@@ -1,6 +1,7 @@
 // write your code below!
-function happyHolidays() { 
-       console.log('Happy Holidays!')
+function happyHolidays(name) { 
+return name
+  
 }
 
 function happyHolidaysTo (name){ 
@@ -18,7 +19,7 @@ function holidayCountdown (days, holiday) {
   return(`It's ${days} days until ${holiday}!`)
   
 }
-happyHolidays()
+happyHolidays('Happy Holidays!')
 happyHolidaysTo('Isabel')
 happyHolidayTo("Julio", "hello")
 holidayCountdown('20','Mothers Day')
