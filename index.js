@@ -22,4 +22,4 @@ function holidayCountdown (days,holiday) {
 happyHolidays()
 happyHolidaysTo('Isabel')
 happyHolidayTo("Julio", "hello")
-holidayCountdown('20','Mothers Day')
+holidayCountdown('Mothers Day','20')
