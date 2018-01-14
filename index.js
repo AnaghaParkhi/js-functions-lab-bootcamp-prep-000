@@ -6,6 +6,8 @@ function happyHolidays () {
 
 function happyHolidaysTo (name){ 
   console.log(name)
+  console.log(${name}!`)
+
   
 }
 
