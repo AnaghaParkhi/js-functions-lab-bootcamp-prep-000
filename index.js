@@ -10,8 +10,8 @@ function happyHolidaysTo (name){
   
 }
 
-function happyHolidayTo (holiday, firstName){ 
-    console.log(`${greeting}, ${firstName}!`)
+function happyHolidayTo (holiday, name){ 
+    console.log(`${holiday}, ${name}!`)
 
 }
 
