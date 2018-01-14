@@ -19,6 +19,5 @@ function holidayCountdown () {
   
 }
 happyHolidays()
-happyHolidaysTo('Anna')
 happyHolidaysTo('Isabel')
 happyHolidayTo("Julio", "hello")
