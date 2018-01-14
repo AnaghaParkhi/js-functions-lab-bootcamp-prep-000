@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays() { 
          
-       return('Happy Holidays!')
+       console.log('Happy Holidays!')
 }
 
 function happyHolidaysTo (name){ 
