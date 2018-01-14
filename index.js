@@ -4,8 +4,8 @@ function happyHolidays () {
        console.log("happy Holidays!")
 }
 
-function happyHolidaysTo ($name){ 
-  
+function happyHolidaysTo (name){ 
+  console.log(name)
   
 }
 
@@ -17,3 +17,4 @@ function holidayCountdown () {
   
 }
 happyHolidays()
+happyHolidaysTo (Anna)
