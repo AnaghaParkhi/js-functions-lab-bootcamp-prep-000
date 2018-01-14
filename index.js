@@ -20,3 +20,4 @@ function holidayCountdown () {
 }
 happyHolidays()
 happyHolidaysTo ('Anna')
+happyHolidaysTo ('Anna')
